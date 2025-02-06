@@ -56,7 +56,7 @@ Our machine learning models achieved the following results:
 - 🔬 Provided **data-backed insights** for preventive healthcare measures.
 - 📊 Achieved a **ROC-AUC score of 0.9003**, ensuring model robustness.
 
-## 👨‍💻 Author - Support & Contributions
+## 👨‍💻 Author - Contributions & Donation 
 This project was developed by **Quan-Hoang-Ngoc** and Group 9 from **University of Information Technology (UIT), Ho Chi Minh City, Vietnam**.
 
 If you found this project useful, consider supporting:
