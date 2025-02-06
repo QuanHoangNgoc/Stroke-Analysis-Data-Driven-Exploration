@@ -3,10 +3,10 @@
 ## 🔍 What is it?
 Stroke is one of the leading causes of mortality and disability worldwide. Our project applies data-driven techniques to analyze stroke risk factors and develop predictive models to assist individuals and healthcare professionals in mitigating stroke risks. We also built a Minimal Viable Product (MVP) that provides risk predictions, recommendations, and educational resources.
 
-## 🎯 Why did we do it?
+## 🎯 Why this project? 
 The motivation behind this project stems from the critical need to identify and prevent strokes before they occur. By leveraging machine learning and exploratory data analysis, we aim to uncover key factors influencing stroke risks and provide actionable insights that can drive better health outcomes.
 
-## 👥 Who is this for?
+## 👥 Who can benefit? 
 This project is designed for:
 - 🏥 Healthcare professionals seeking data-driven insights into stroke risk factors.
 - 📊 Researchers and data scientists exploring predictive analytics in medical applications.
@@ -43,7 +43,7 @@ Our machine learning models achieved the following results:
 - 📈 Used **Probability Validation** to confirm trends identified in EDA.
 - 🔬 Ensured the model’s conclusions align with real-world stroke predictors.
 
-## 📚 What did we learn?
+## 📚 Key Learnings
 - **📅 Age and glucose levels** are the most influential factors in stroke risk.
 - **❤️ Medical history (hypertension & heart disease)** significantly increases stroke probability.
 - **🚬 Lifestyle choices, such as smoking,** are critical determinants of stroke risk.
@@ -56,7 +56,7 @@ Our machine learning models achieved the following results:
 - 🔬 Provided **data-backed insights** for preventive healthcare measures.
 - 📊 Achieved a **ROC-AUC score of 0.9003**, ensuring model robustness.
 
-## 👨‍💻 Author - ❤️ Donate & Support
+## 👨‍💻 Author - Support & Contributions
 This project was developed by **Quan-Hoang-Ngoc** and Group 9 from **University of Information Technology (UIT), Ho Chi Minh City, Vietnam**.
 
 If you found this project useful, consider supporting:
